@@ -27,17 +27,15 @@ This project analyzes Superstore sales data using Google Sheets to identify tren
 
 
 ### Sales Overview
-![Sales](sales.png.png)<img width="1920" height="1008" alt="sales png" src="https://github.com/user-attachments/assets/15c8829d-8b89-425b-944f-ddaa5b5dc73c" />
+![Sales](sales.png.png)
 
 
 ### Profit Analysis
-![Profit](profit.png.png)<img width="1920" height="1008" alt="monthly_trend png" src="https://github.com/user-attachments/assets/f79d913c-017e-45c5-ae8f-d94b2447c887" />
-<img width="1920" height="1008" alt="profit png" src="https://github.com/user-attachments/assets/2f5920fc-cd22-4a9b-96f7-89ce65885d70" />
+![Profit](profit.png.png)
 
 
 ### Monthly Trend
-![Trend](monthly_trend.png.png)<img width="1920" height="1008" alt="monthly_trend png" src="https://github.com/user-attachments/assets/6f8a83a2-4ebf-4682-9ef9-cbeba57e353b" />
-
+![Trend](monthly_trend.png.png)
 
 
 
