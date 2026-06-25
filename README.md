@@ -30,3 +30,4 @@ This project analyzes Superstore sales data using Google Sheets to identify tren
 
 ## Conclusion
 The analysis highlights regional imbalance and seasonal sales trends, helping identify areas for business improvement and growth opportunities.
+
